@@ -28,10 +28,10 @@
 > - this server has test for all methods you can test before use anytime :).\
 
 # heroku link
-> [saleh-basic-api-server](https://saleh-bearer-auth.herokuapp.com/)
+> [saleh-basic-api-server](https://saleh-auth-api.herokuapp.com/)
 
 # GitHub actions link
-> - [actions link](https://github.com/Salehziad/bearer-auth/actionsa)
+> - [actions link](https://github.com/Salehziad/auth-api/actions)
 
 # The pull request link
-> - [pull request](https://github.com/Salehziad/bearer-auth/pulls?q=is%3Apr+is%3Aclosed)
+> - [pull request](https://github.com/Salehziad/auth-api/pulls)
