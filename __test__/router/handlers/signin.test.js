@@ -2,7 +2,7 @@
 
 process.env.SECRET = "TEST_SECRET";
 
-const { db, users } = require('../../../src/auth/models');
+const { db, users } = require('../../../src/models-connections');
 const { handleSignin } = require('../../../src/auth/router/handlers.js');
 
 beforeAll(async () => {

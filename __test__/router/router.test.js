@@ -2,7 +2,7 @@
 
 process.env.SECRET = "TEST_SECRET";
 
-const { db } = require('../../src/auth/models/index');
+const { db } = require('../../src/models-connections');
 const supertest = require('supertest');
 const server = require('../../src/server').server;
 

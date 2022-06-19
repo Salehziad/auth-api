@@ -2,7 +2,7 @@
 process.env.SECRET = "TEST_SECRET";
 const {
   db,
-} = require('../../../src/auth/models');
+} = require('../../../src/models-connections');
 const {
   handleGetUsers
 } = require('../../../src/auth/router/handlers.js');

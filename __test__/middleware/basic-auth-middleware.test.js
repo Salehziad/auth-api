@@ -5,7 +5,7 @@ const middleware = require('../../src/auth/middleware/basic.js');
 const {
     db,
     users
-} = require('../../src/auth/models/index.js');
+} = require('../../src/models-connections');
 let userInfo = {
     admin: {
         username: 'admin-basic',
